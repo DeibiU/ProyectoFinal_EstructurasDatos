@@ -7,7 +7,6 @@
 
 struct Categoria {
     std::string nombre;
-    // Puedes agregar más atributos según tus necesidades
 
     Categoria(const std::string& nombre) : nombre(nombre) {}
 };
